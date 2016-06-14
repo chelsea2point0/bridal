@@ -35,8 +35,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sugar-and-spice-child/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="1297" column="31" selection-start-line="1297" selection-start-column="31" selection-end-line="1297" selection-end-column="31" />
+            <state relative-caret-position="575">
+              <caret line="1296" column="17" selection-start-line="1296" selection-start-column="17" selection-end-line="1296" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -209,12 +209,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1465866413175</updated>
-      <workItem from="1465866415162" duration="1889000" />
+      <workItem from="1465866415162" duration="2108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1889000" />
+    <option name="totallyTimeSpent" value="2108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="91" y="23" width="1482" height="959" extended-state="0" />
@@ -265,8 +265,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sugar-and-spice-child/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="1297" column="31" selection-start-line="1297" selection-start-column="31" selection-end-line="1297" selection-end-column="31" />
+        <state relative-caret-position="575">
+          <caret line="1296" column="17" selection-start-line="1296" selection-start-column="17" selection-end-line="1296" selection-end-column="17" />
           <folding />
         </state>
       </provider>

@@ -1294,7 +1294,7 @@ object {
 #main_countedown_widget_2 .time_left, #main_countedown_widget_2 .time_description {
     background-color: transparent !important;
     font-family: "PT Serif", Georgia, serif !important;
-    font-size: 13px !important;
+    font-size: 14px !important;
     font-weight: 400 !important;
 }
 
